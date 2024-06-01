@@ -34,5 +34,5 @@ git clone https://github.com/yourusername/clinic-hospital-management.git
 cd clinic-hospital-management
 
 
-##usage
+## usage
 python clinic_hospital.py
